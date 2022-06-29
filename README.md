@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-live preview : track-your-spending.netlify.app
+Live preview : https://track-your-spending.netlify.app/
 
 ## Available Scripts
 
